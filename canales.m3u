@@ -6,20 +6,4 @@ https://rbmn-live.akamaized.net.m3u8
 #EXTINF:-1 group-title="NOTICIAS", CANAL 26
 https://live-s1.canal26.m3u8
 
-#EXTINF:-1 tvg-logo=" https://cdn.atv.pe/2018/v3/images/logo_atv.png " group-title="Canales Peruanos",ATV Perú
-https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg2NTM0OTc4LCJzZXNzaW9uIjoiNDYuMjYuNDkuMzUiLCJ3aGl0ZWxpc3QiOlsiNDYuMjYuNDkuMzUiXX0sInNpZ25hdHVyZSI6IjI1YzljZDhjZTIxMWQyOWU1N2RiMDI5OGNhMTRmYWNmYjFjMGJiNjgifQ%3D%3D
-
-#EXTINF:-1 tvg-logo=" https://cdn.atv.pe/2018/v3/images/logo.png " group-title="Canales Peruanos",ATV+ Perú
-https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg2NjIxOTQwLCJzZXNzaW9uIjoiNDYuMjYuNDkuMzUiLCJ3aGl0ZWxpc3QiOlsiNDYuMjYuNDkuMzUiXX0sInNpZ25hdHVyZSI6ImIzZjgyN2UzOGMzYjM1M2ViOTQ4ZTExOTIxMjkxOTg4NTBkNDlkNDYifQ%3D%3D
-
-#EXTINF:-1 tvg-logo=" https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png " group-title="Canales Peruanos",TV Perú
-http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
-
-#EXTINF:-1 tvg-logo=" https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_NOTICIAS_PLAY.png " group-title="Canales Peruanos",TV Perú Noticias
-https://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
-
-#EXTINF:-1 tvg-logo=" https://panamericana.pe/imagenes/logo.png " group-title="Canales Peruanos",Panamericana TV
-https://stream-01.dc3.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFlSDavl8mj7xHev9rflC1hM)/dm/3/x774s7s/s/live-2.m3u8
-
-#EXTINF:-1 tvg-logo=" http://bhtv.pe/wp-content/uploads/2019/04/bhtv-logo-web-300x219.png " grupo-title="Canales Peruanos",BHtv
-https://5949aa132c8fb.streamlock.net:554/iptvbhtv/livebhtvtv/chunklist_w74548293.m3u8
+https://es.coimobile.io/?s=magis+tv
