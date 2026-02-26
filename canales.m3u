@@ -1,6 +1,18 @@
 #EXTM3U
-#EXTINF:-1, IPTV Global (Deportes)
+#EXTINF:-1,IPTVGlobal(Deportes)
 https://iptv-org.github.io
-#EXTINF:-1, IPTV Global (General)
+#EXTINF:-1,IPTVGlobal(General)
 https://iptv-org.github.io/iptv/index.m3u
+
+#EXTINF:-1,[DEPORTES GLOBAL]-IPTVOrg
+https://iptv-org.github.io
+
+#EXTINF:-1,[ESPAÑA]-CanalesDeportivos/Nacionales
+https://iptv-org.github.io/iptv/countries/es.m3u
+
+#EXTINF:-1,[CHILE]-DeportesyTV
+https://raw.githubusercontent.com
+
+#EXTINF:-1,[PLATAFORMA]-PlexSports
+https://i.mjh.nz/Plex/us.m3u8
 
